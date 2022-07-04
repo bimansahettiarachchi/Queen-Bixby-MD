@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = ['94711421243']
+global.owner = ['94723814865']
+global.premium = ['94723814865']
+global.ownernomer = ['94723814865']
 global.ownername = 'Ghost'
 global.botname = 'Bixby MD'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
